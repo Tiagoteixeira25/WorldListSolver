@@ -1,0 +1,65 @@
+﻿  Letter_Finder.cpp
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(86,80): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(88,74): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(138,80): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(139,7): warning C4101: "int_ptr": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(158,78): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(160,73): warning C4309: "argument": obcięcie stałej wartości
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(226,30): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(257,18): warning C4244: "inicjowanie": konwersja z "size_t" do "float", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(290,38): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(304,17): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(305,17): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(319,13): warning C4244: "=": konwersja z "size_t" do "float", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(296,16): warning C4101: "py": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(296,12): warning C4101: "px": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(679,30): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(706,18): warning C4244: "inicjowanie": konwersja z "size_t" do "float", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(738,38): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(752,17): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(753,17): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(775,13): warning C4244: "=": konwersja z "size_t" do "float", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(744,16): warning C4101: "py": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(744,12): warning C4101: "px": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(821,30): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(848,18): warning C4244: "inicjowanie": konwersja z "size_t" do "float", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(870,38): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(884,17): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(885,17): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(897,13): warning C4244: "=": konwersja z "size_t" do "float", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(876,16): warning C4101: "py": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(869,9): warning C4101: "xor_sum": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(876,12): warning C4101: "px": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(831,8): warning C4101: "surf_pixels": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(1052,68): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(1075,69): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(1159,80): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(1184,81): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(1392,68): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(1413,69): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(1508,80): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(1531,81): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(1555,11): warning C4101: "letter_c": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(1800,10): warning C4101: "py": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(1800,6): warning C4101: "px": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(2026,11): warning C4477: „printf”: ciąg formatu „%i” wymaga argumentu typu „int”, ale argument 1 ze zmienną liczbą argumentów ma typ „size_t”
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(2026,11): message : rozważ użycie elementu „%zi” w ciągu formatu
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(2165,26): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(2166,45): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(2169,23): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(2172,31): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Dawid\Desktop\NC++\Projet\Projet\Letter_Finder.cpp(2173,46): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+Letter_Finder.obj : warning LNK4006: element "struct pos_linked_list * * pll_temp" (?pll_temp@@3PAPEAUpos_linked_list@@A) jest już zdefiniowany w elemencie get_rect.obj; druga definicja została zignorowana
+POSLL.obj : warning LNK4006: element "struct pos_linked_list * * pll_temp" (?pll_temp@@3PAPEAUpos_linked_list@@A) jest już zdefiniowany w elemencie get_rect.obj; druga definicja została zignorowana
+Projet.obj : warning LNK4006: element "char const * * letters_files" (?letters_files@@3PAPEBDA) jest już zdefiniowany w elemencie Letter_Finder.obj; druga definicja została zignorowana
+Skew_detector.obj : warning LNK4006: element "struct pos_linked_list * * pll_temp" (?pll_temp@@3PAPEAUpos_linked_list@@A) jest już zdefiniowany w elemencie get_rect.obj; druga definicja została zignorowana
+Skew_detector.obj : warning LNK4006: element "char const * * letters_files" (?letters_files@@3PAPEBDA) jest już zdefiniowany w elemencie Letter_Finder.obj; druga definicja została zignorowana
+C:\Users\Dawid\Desktop\NC++\Projet\x64\Release\Projet.exe : warning LNK4088: obraz jest generowany ze względu na użycie opcji /FORCE; uruchomienie obrazu może nie być możliwe
+  Trwa generowanie kodu
+  6 of 50 functions (12.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+* CIL library *(* CIL module *) : warning LNK4006: element "struct pos_linked_list * * pll_temp" (?pll_temp@@3PAPEAUpos_linked_list@@A) jest już zdefiniowany w elemencie * CIL library *(* CIL module *); druga definicja została zignorowana
+C:\Users\Dawid\Desktop\NC++\Projet\x64\Release\Projet.exe : warning LNK4088: obraz jest generowany ze względu na użycie opcji /FORCE; uruchomienie obrazu może nie być możliwe
+  Projet.vcxproj -> C:\Users\Dawid\Desktop\NC++\Projet\x64\Release\Projet.exe

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dawid\\Desktop\\NC\u002B\u002B\\Projet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{641659FD-751C-4B34-82F8-0F38AF40997E}|Projet\\Projet.vcxproj|C:\\Users\\Dawid\\Desktop\\NC\u002B\u002B\\Projet\\Projet\\POSLL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{641659FD-751C-4B34-82F8-0F38AF40997E}|Projet\\Projet.vcxproj|solutionrelative:Projet\\POSLL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641659FD-751C-4B34-82F8-0F38AF40997E}|Projet\\Projet.vcxproj|C:\\Users\\Dawid\\Desktop\\NC\u002B\u002B\\Projet\\Projet\\Projet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{641659FD-751C-4B34-82F8-0F38AF40997E}|Projet\\Projet.vcxproj|solutionrelative:Projet\\Projet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{641659FD-751C-4B34-82F8-0F38AF40997E}|Projet\\Projet.vcxproj|C:\\Users\\Dawid\\Desktop\\NC\u002B\u002B\\Projet\\Projet\\Letter_Finder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{641659FD-751C-4B34-82F8-0F38AF40997E}|Projet\\Projet.vcxproj|solutionrelative:Projet\\Letter_Finder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "POSLL.cpp",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\NC\u002B\u002B\\Projet\\Projet\\POSLL.cpp",
+              "RelativeDocumentMoniker": "Projet\\POSLL.cpp",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\NC\u002B\u002B\\Projet\\Projet\\POSLL.cpp",
+              "RelativeToolTip": "Projet\\POSLL.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-11T22:56:28.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Letter_Finder.cpp",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\NC\u002B\u002B\\Projet\\Projet\\Letter_Finder.cpp",
+              "RelativeDocumentMoniker": "Projet\\Letter_Finder.cpp",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\NC\u002B\u002B\\Projet\\Projet\\Letter_Finder.cpp",
+              "RelativeToolTip": "Projet\\Letter_Finder.cpp",
+              "ViewState": "AgIAAAMGAAAAAAAAAAAswBgGAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-10T12:53:07.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Projet.cpp",
+              "DocumentMoniker": "C:\\Users\\Dawid\\Desktop\\NC\u002B\u002B\\Projet\\Projet\\Projet.cpp",
+              "RelativeDocumentMoniker": "Projet\\Projet.cpp",
+              "ToolTip": "C:\\Users\\Dawid\\Desktop\\NC\u002B\u002B\\Projet\\Projet\\Projet.cpp",
+              "RelativeToolTip": "Projet\\Projet.cpp",
+              "ViewState": "AgIAAH8CAAAAAAAAAAD4v4cCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-10T12:52:01.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

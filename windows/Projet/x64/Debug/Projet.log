@@ -1,0 +1,9 @@
+﻿  POSLL.cpp
+LINK : warning LNK4075: zignorowano opcję „/INCREMENTAL” z powodu określenia opcji „/FORCE”
+Letter_Finder.obj : warning LNK4006: element "struct pos_linked_list * * pll_temp" (?pll_temp@@3PAPEAUpos_linked_list@@A) jest już zdefiniowany w elemencie get_rect.obj; druga definicja została zignorowana
+POSLL.obj : warning LNK4006: element "struct pos_linked_list * * pll_temp" (?pll_temp@@3PAPEAUpos_linked_list@@A) jest już zdefiniowany w elemencie get_rect.obj; druga definicja została zignorowana
+Projet.obj : warning LNK4006: element "char const * * letters_files" (?letters_files@@3PAPEBDA) jest już zdefiniowany w elemencie Letter_Finder.obj; druga definicja została zignorowana
+Skew_detector.obj : warning LNK4006: element "struct pos_linked_list * * pll_temp" (?pll_temp@@3PAPEAUpos_linked_list@@A) jest już zdefiniowany w elemencie get_rect.obj; druga definicja została zignorowana
+Skew_detector.obj : warning LNK4006: element "char const * * letters_files" (?letters_files@@3PAPEBDA) jest już zdefiniowany w elemencie Letter_Finder.obj; druga definicja została zignorowana
+C:\Users\Dawid\Desktop\NC++\Projet\x64\Debug\Projet.exe : warning LNK4088: obraz jest generowany ze względu na użycie opcji /FORCE; uruchomienie obrazu może nie być możliwe
+  Projet.vcxproj -> C:\Users\Dawid\Desktop\NC++\Projet\x64\Debug\Projet.exe
